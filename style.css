@@ -1,0 +1,27 @@
+p {
+	color: red;
+}
+
+a {
+	color: white;
+}
+
+.boxOne {
+	width: 100%;
+	height: 300px;
+	background-color: gray;
+}
+
+.boxTwo {
+	width: 45%;
+	height: 300px;
+	border: 10px solid black;
+	float: left;
+}
+
+.boxThree {
+	width: 45%;
+	height: 300px;
+	border: 10px solid orange;
+	float: left;
+}
